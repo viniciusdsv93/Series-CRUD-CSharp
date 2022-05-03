@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\bin\Debug\net6.0\_21seriesCRUD.exe
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\bin\Debug\net6.0\_21seriesCRUD.deps.json
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\bin\Debug\net6.0\_21seriesCRUD.runtimeconfig.json
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\bin\Debug\net6.0\_21seriesCRUD.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\bin\Debug\net6.0\_21seriesCRUD.pdb
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.AssemblyInfo.cs
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\refint\_21seriesCRUD.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.pdb
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\_21seriesCRUD.genruntimeconfig.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\_21seriesCRUD\obj\Debug\net6.0\ref\_21seriesCRUD.dll
